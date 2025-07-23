@@ -8,7 +8,7 @@
     "on_get_model_field": "",
     "on_save_model_field": "",
     "initiator_on_get_model": "",
-    "xml": "<field\n\ttype=\"category\"\n\tname=\"cid\"\n\tlabel=\"Select a category\"\n\textension=\"com_###component###\"\n\tscope=\"\"\n\trequired=\"true\"\n\tshow_root=\"\"\n\tdefault=\"\"\n\tdescription=\"select one of the following categories\"\n\tclass=\"inputbox\"\n\tpublished=\"1\"\n\tmultiple=\"false\"\n\tshowon=\"\"\n\/>",
+    "xml": "<field\n\ttype=\"category\"\n\tname=\"catid\"\n\tlabel=\"Select a category\"\n\textension=\"com_###component###\"\n\tscope=\"\"\n\trequired=\"true\"\n\tshow_root=\"\"\n\tdefault=\"\"\n\tdescription=\"select one of the following categories\"\n\tclass=\"inputbox\"\n\tpublished=\"1\"\n\tmultiple=\"false\"\n\tshowon=\"\"\n\/>",
     "datalenght": "11",
     "javascript_view_footer": "",
     "css_views": "",
