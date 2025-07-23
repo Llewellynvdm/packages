@@ -7,7 +7,7 @@
 ```xml
 <field
 	type="category"
-	name="cid"
+	name="catid"
 	label="Select a category"
 	extension="com_###component###"
 	scope=""
