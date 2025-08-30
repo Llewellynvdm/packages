@@ -1,5 +1,5 @@
 ### JCB! Field
-# Name
+# Name (required)
 
 > Field Type: Text
 
@@ -13,8 +13,6 @@
 	maxlength="150"
 	description="Enter Name Here"
 	class="text_area"
-	readonly="false"
-	disabled="false"
 	required="true"
 	filter="STRING"
 	message="Error! Please add name here."
