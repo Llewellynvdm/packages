@@ -1384,5 +1384,101 @@
         "path": "src\/field\/f3114a23-bb19-47ba-a2d8-97193b11010e",
         "settings": "src\/field\/f3114a23-bb19-47ba-a2d8-97193b11010e\/item.json",
         "guid": "f3114a23-bb19-47ba-a2d8-97193b11010e"
+    },
+    "0397261c-6035-4792-89b2-3842c0321a2f": {
+        "name": "Quantity",
+        "path": "src\/field\/0397261c-6035-4792-89b2-3842c0321a2f",
+        "settings": "src\/field\/0397261c-6035-4792-89b2-3842c0321a2f\/item.json",
+        "guid": "0397261c-6035-4792-89b2-3842c0321a2f"
+    },
+    "10c1eccb-b3c3-4325-a056-45a72d116fd8": {
+        "name": "Email (required)",
+        "path": "src\/field\/10c1eccb-b3c3-4325-a056-45a72d116fd8",
+        "settings": "src\/field\/10c1eccb-b3c3-4325-a056-45a72d116fd8\/item.json",
+        "guid": "10c1eccb-b3c3-4325-a056-45a72d116fd8"
+    },
+    "1616608c-5307-4496-89e2-36a326a84716": {
+        "name": "Crop Width (in pixels)",
+        "path": "src\/field\/1616608c-5307-4496-89e2-36a326a84716",
+        "settings": "src\/field\/1616608c-5307-4496-89e2-36a326a84716\/item.json",
+        "guid": "1616608c-5307-4496-89e2-36a326a84716"
+    },
+    "2455eb36-d907-4e7c-8e70-421fabd0ef9d": {
+        "name": "Instructions",
+        "path": "src\/field\/2455eb36-d907-4e7c-8e70-421fabd0ef9d",
+        "settings": "src\/field\/2455eb36-d907-4e7c-8e70-421fabd0ef9d\/item.json",
+        "guid": "2455eb36-d907-4e7c-8e70-421fabd0ef9d"
+    },
+    "27c39335-cd12-46a5-82e7-26d3c67b9bb6": {
+        "name": "Confirm Password",
+        "path": "src\/field\/27c39335-cd12-46a5-82e7-26d3c67b9bb6",
+        "settings": "src\/field\/27c39335-cd12-46a5-82e7-26d3c67b9bb6\/item.json",
+        "guid": "27c39335-cd12-46a5-82e7-26d3c67b9bb6"
+    },
+    "7cbf273d-c9a4-4795-85d5-e4abb0710a60": {
+        "name": "Strength",
+        "path": "src\/field\/7cbf273d-c9a4-4795-85d5-e4abb0710a60",
+        "settings": "src\/field\/7cbf273d-c9a4-4795-85d5-e4abb0710a60\/item.json",
+        "guid": "7cbf273d-c9a4-4795-85d5-e4abb0710a60"
+    },
+    "8358addd-e048-4964-8bf9-7a34531d618e": {
+        "name": "Medication",
+        "path": "src\/field\/8358addd-e048-4964-8bf9-7a34531d618e",
+        "settings": "src\/field\/8358addd-e048-4964-8bf9-7a34531d618e\/item.json",
+        "guid": "8358addd-e048-4964-8bf9-7a34531d618e"
+    },
+    "8a64b899-6cb9-4ba3-bed1-559675f8d20b": {
+        "name": "Entity Type (Hidden)",
+        "path": "src\/field\/8a64b899-6cb9-4ba3-bed1-559675f8d20b",
+        "settings": "src\/field\/8a64b899-6cb9-4ba3-bed1-559675f8d20b\/item.json",
+        "guid": "8a64b899-6cb9-4ba3-bed1-559675f8d20b"
+    },
+    "910b86fc-9593-4254-84b7-e1a68d61cd58": {
+        "name": "Type (Immunisation)",
+        "path": "src\/field\/910b86fc-9593-4254-84b7-e1a68d61cd58",
+        "settings": "src\/field\/910b86fc-9593-4254-84b7-e1a68d61cd58\/item.json",
+        "guid": "910b86fc-9593-4254-84b7-e1a68d61cd58"
+    },
+    "9331d77c-d0a6-4f61-b113-88eb01268e90": {
+        "name": "Units",
+        "path": "src\/field\/9331d77c-d0a6-4f61-b113-88eb01268e90",
+        "settings": "src\/field\/9331d77c-d0a6-4f61-b113-88eb01268e90\/item.json",
+        "guid": "9331d77c-d0a6-4f61-b113-88eb01268e90"
+    },
+    "a0d7c091-1781-45fb-a71f-1447bad69614": {
+        "name": "User ID (Hidden)",
+        "path": "src\/field\/a0d7c091-1781-45fb-a71f-1447bad69614",
+        "settings": "src\/field\/a0d7c091-1781-45fb-a71f-1447bad69614\/item.json",
+        "guid": "a0d7c091-1781-45fb-a71f-1447bad69614"
+    },
+    "ab0d3b92-bd90-4957-ab71-cbc7a5fabeb3": {
+        "name": "Crop Height (in pixels)",
+        "path": "src\/field\/ab0d3b92-bd90-4957-ab71-cbc7a5fabeb3",
+        "settings": "src\/field\/ab0d3b92-bd90-4957-ab71-cbc7a5fabeb3\/item.json",
+        "guid": "ab0d3b92-bd90-4957-ab71-cbc7a5fabeb3"
+    },
+    "b7edbefd-d8ee-4765-9a09-ab1922e70e68": {
+        "name": "Username (required)",
+        "path": "src\/field\/b7edbefd-d8ee-4765-9a09-ab1922e70e68",
+        "settings": "src\/field\/b7edbefd-d8ee-4765-9a09-ab1922e70e68\/item.json",
+        "guid": "b7edbefd-d8ee-4765-9a09-ab1922e70e68"
+    },
+    "b9097198-705f-4a6b-bd10-676d55cd6517": {
+        "name": "Password",
+        "path": "src\/field\/b9097198-705f-4a6b-bd10-676d55cd6517",
+        "settings": "src\/field\/b9097198-705f-4a6b-bd10-676d55cd6517\/item.json",
+        "guid": "b9097198-705f-4a6b-bd10-676d55cd6517"
+    },
+    "dde8b322-fffa-4857-9540-fa95f5fe1028": {
+        "name": "Immunisation Vaccine Type",
+        "path": "src\/field\/dde8b322-fffa-4857-9540-fa95f5fe1028",
+        "settings": "src\/field\/dde8b322-fffa-4857-9540-fa95f5fe1028\/item.json",
+        "guid": "dde8b322-fffa-4857-9540-fa95f5fe1028"
+    },
+    "fb3115a1-e579-401a-9b53-9469cd4739e4": {
+        "name": "GUID (Hidden)",
+        "path": "src\/field\/fb3115a1-e579-401a-9b53-9469cd4739e4",
+        "settings": "src\/field\/fb3115a1-e579-401a-9b53-9469cd4739e4\/item.json",
+        "guid": "fb3115a1-e579-401a-9b53-9469cd4739e4"
     }
 }
