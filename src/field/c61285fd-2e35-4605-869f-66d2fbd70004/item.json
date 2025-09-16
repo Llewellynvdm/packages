@@ -32,51 +32,51 @@
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "a0d7c091-1781-45fb-a71f-1447bad69614",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "fb3115a1-e579-401a-9b53-9469cd4739e4",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "b7edbefd-d8ee-4765-9a09-ab1922e70e68",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "10c1eccb-b3c3-4325-a056-45a72d116fd8",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "b9097198-705f-4a6b-bd10-676d55cd6517",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "27c39335-cd12-46a5-82e7-26d3c67b9bb6",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         },
         {
-            "key": "field",
+            "key": "guid",
             "value": "8a64b899-6cb9-4ba3-bed1-559675f8d20b",
-            "entity": "guid",
+            "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
         }
