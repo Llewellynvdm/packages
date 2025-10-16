@@ -320,6 +320,8 @@ This preserves version control while allowing your own field improvements to liv
  - **Users** | [Details](src/field/c61285fd-2e35-4605-869f-66d2fbd70004) | [Settings](src/field/c61285fd-2e35-4605-869f-66d2fbd70004/item.json)
  - **Vaginal discharge (CC)** | [Details](src/field/d0112094-a040-4fa1-ba16-420007b4085f) | [Settings](src/field/d0112094-a040-4fa1-ba16-420007b4085f/item.json)
  - **Vaginal discharge (CC)** | [Details](src/field/4784599f-766e-42a0-a370-6d81aefa0afc) | [Settings](src/field/4784599f-766e-42a0-a370-6d81aefa0afc/item.json)
+ - **Version Dates** | [Details](src/field/7bb0cce1-9a1d-4f38-9f94-4585eaabcdcd) | [Settings](src/field/7bb0cce1-9a1d-4f38-9f94-4585eaabcdcd/item.json)
+ - **Version Name** | [Details](src/field/f3e44dab-059a-434e-98c5-9d9def389295) | [Settings](src/field/f3e44dab-059a-434e-98c5-9d9def389295/item.json)
  - **Versions** | [Details](src/field/801520d9-b7b3-47c5-a2a9-2581199ead0b) | [Settings](src/field/801520d9-b7b3-47c5-a2a9-2581199ead0b/item.json)
  - **Website (no required)** | [Details](src/field/6c3a6983-d1bf-4e5e-9e99-deea00b0cefd) | [Settings](src/field/6c3a6983-d1bf-4e5e-9e99-deea00b0cefd/item.json)
  - **Weight** | [Details](src/field/025ef251-c69a-4fab-9c45-02ac08306256) | [Settings](src/field/025ef251-c69a-4fab-9c45-02ac08306256/item.json)
