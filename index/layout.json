@@ -131,5 +131,12 @@
         "path": "src\/layout\/dbcc89a3-75eb-48f3-8982-69c0fa2b0a01",
         "settings": "src\/layout\/dbcc89a3-75eb-48f3-8982-69c0fa2b0a01\/item.json",
         "guid": "dbcc89a3-75eb-48f3-8982-69c0fa2b0a01"
+    },
+    "c9d68d44-c737-4eea-a465-2928eaa12537": {
+        "name": "File Display Engine",
+        "desc": "File Display Engine",
+        "path": "src\/layout\/c9d68d44-c737-4eea-a465-2928eaa12537",
+        "settings": "src\/layout\/c9d68d44-c737-4eea-a465-2928eaa12537\/item.json",
+        "guid": "c9d68d44-c737-4eea-a465-2928eaa12537"
     }
 }
