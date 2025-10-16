@@ -1486,5 +1486,17 @@
         "path": "src\/field\/a70ae0cf-134f-4f79-a1e5-3e12d2c364c7",
         "settings": "src\/field\/a70ae0cf-134f-4f79-a1e5-3e12d2c364c7\/item.json",
         "guid": "a70ae0cf-134f-4f79-a1e5-3e12d2c364c7"
+    },
+    "6a17f5e4-d21e-47f1-9b92-493ab725d55f": {
+        "name": "Column",
+        "path": "src\/field\/6a17f5e4-d21e-47f1-9b92-493ab725d55f",
+        "settings": "src\/field\/6a17f5e4-d21e-47f1-9b92-493ab725d55f\/item.json",
+        "guid": "6a17f5e4-d21e-47f1-9b92-493ab725d55f"
+    },
+    "7d613846-8f1e-43f4-8bb9-1fcdbb473fa5": {
+        "name": "Target Field",
+        "path": "src\/field\/7d613846-8f1e-43f4-8bb9-1fcdbb473fa5",
+        "settings": "src\/field\/7d613846-8f1e-43f4-8bb9-1fcdbb473fa5\/item.json",
+        "guid": "7d613846-8f1e-43f4-8bb9-1fcdbb473fa5"
     }
 }
